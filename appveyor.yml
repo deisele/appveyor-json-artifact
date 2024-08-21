@@ -1,0 +1,6 @@
+version: 1.0.{build}
+
+artifacts:
+- path: payload.json
+  name: payload.json
+  type: file
