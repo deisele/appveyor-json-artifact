@@ -1,5 +1,8 @@
 version: 1.0.{build}
 
+build_script:
+- cmd:
+
 artifacts:
 - path: payload.json
   name: payload.json
